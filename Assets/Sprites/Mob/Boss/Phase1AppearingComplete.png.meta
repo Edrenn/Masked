@@ -1,0 +1,751 @@
+fileFormatVersion: 2
+guid: 8dc431c70594e5444b63ad7603283670
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6917945347192583678
+    second: Phase1AppearingComplete_0
+  - first:
+      213: -6979764563308792858
+    second: Phase1AppearingComplete_1
+  - first:
+      213: 8732618485362209921
+    second: Phase1AppearingComplete_2
+  - first:
+      213: -1510459423285634523
+    second: Phase1AppearingComplete_3
+  - first:
+      213: 2764076186139229891
+    second: Phase1AppearingComplete_4
+  - first:
+      213: 8064656923975111344
+    second: Phase1AppearingComplete_5
+  - first:
+      213: 4708079789400028846
+    second: Phase1AppearingComplete_6
+  - first:
+      213: -4439843849642342002
+    second: Phase1AppearingComplete_7
+  - first:
+      213: -368299668501933640
+    second: Phase1AppearingComplete_8
+  - first:
+      213: -1200371695918633903
+    second: Phase1AppearingComplete_9
+  - first:
+      213: 8908833959597017483
+    second: Phase1AppearingComplete_10
+  - first:
+      213: -1131120920366269344
+    second: Phase1AppearingComplete_11
+  - first:
+      213: 6511701254479528357
+    second: Phase1AppearingComplete_12
+  - first:
+      213: 1791619926512807299
+    second: Phase1AppearingComplete_13
+  - first:
+      213: 1414156761846938524
+    second: Phase1AppearingComplete_14
+  - first:
+      213: 494383036732496109
+    second: Phase1AppearingComplete_15
+  - first:
+      213: 2225755096019491727
+    second: Phase1AppearingComplete_16
+  - first:
+      213: -7103011020748087624
+    second: Phase1AppearingComplete_17
+  - first:
+      213: -8633745811733108139
+    second: Phase1AppearingComplete_18
+  - first:
+      213: -3658665003575811807
+    second: Phase1AppearingComplete_19
+  - first:
+      213: 3721767799662888733
+    second: Phase1AppearingComplete_20
+  - first:
+      213: -8877067449114899971
+    second: Phase1AppearingComplete_21
+  - first:
+      213: -2328987119909641276
+    second: Phase1AppearingComplete_22
+  - first:
+      213: 7672086662897337884
+    second: Phase1AppearingComplete_23
+  - first:
+      213: -5824187389483484927
+    second: Phase1AppearingComplete_0
+  - first:
+      213: 8744941392254247488
+    second: Phase1AppearingComplete_1
+  - first:
+      213: -1325238095423879832
+    second: Phase1AppearingComplete_2
+  - first:
+      213: 2715571382339214675
+    second: Phase1AppearingComplete_3
+  - first:
+      213: -7115341389915382100
+    second: Phase1AppearingComplete_4
+  - first:
+      213: 1675033264005001981
+    second: Phase1AppearingComplete_5
+  - first:
+      213: 7793730480232247536
+    second: Phase1AppearingComplete_6
+  - first:
+      213: -7011640957794292568
+    second: Phase1AppearingComplete_7
+  - first:
+      213: -7011093789040366210
+    second: Phase1AppearingComplete_8
+  - first:
+      213: 1446918696839726795
+    second: Phase1AppearingComplete_9
+  - first:
+      213: 8312852145915260405
+    second: Phase1AppearingComplete_10
+  - first:
+      213: -809134483991094299
+    second: Phase1AppearingComplete_11
+  - first:
+      213: 2525707204358919789
+    second: Phase1AppearingComplete_12
+  - first:
+      213: 6344631993565073950
+    second: Phase1AppearingComplete_13
+  - first:
+      213: 8882436672221108057
+    second: Phase1AppearingComplete_14
+  - first:
+      213: -3639262378709635963
+    second: Phase1AppearingComplete_15
+  - first:
+      213: 6021879765936150080
+    second: Phase1AppearingComplete_16
+  - first:
+      213: -1351841619447366163
+    second: Phase1AppearingComplete_17
+  - first:
+      213: 5096642168371763244
+    second: Phase1AppearingComplete_18
+  - first:
+      213: -8184755980831072806
+    second: Phase1AppearingComplete_19
+  - first:
+      213: 3888308908532569920
+    second: Phase1AppearingComplete_20
+  - first:
+      213: -8214843623670551794
+    second: Phase1AppearingComplete_21
+  - first:
+      213: 5872028570614253603
+    second: Phase1AppearingComplete_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11776
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef5faf2f3aa710060800000000000000
+      internalID: 6917945347192583678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 11264
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e3be1c2c15e22f90800000000000000
+      internalID: -6979764563308792858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10752
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184360bbe3e703970800000000000000
+      internalID: 8732618485362209921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10240
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a1b634825c90be0800000000000000
+      internalID: -1510459423285634523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9728
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cef1f685a8fb5620800000000000000
+      internalID: 2764076186139229891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9216
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b25ee47eba6bef60800000000000000
+      internalID: 8064656923975111344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8704
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6726dbf95765140800000000000000
+      internalID: 4708079789400028846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8192
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e898dd3ca818262c0800000000000000
+      internalID: -4439843849642342002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7680
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b15c00276983eaf0800000000000000
+      internalID: -368299668501933640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 7168
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c265a6d4c675fe0800000000000000
+      internalID: -1200371695918633903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6656
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8987b4094982ab70800000000000000
+      internalID: 8908833959597017483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6144
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c3e8f04837d40f0800000000000000
+      internalID: -1131120920366269344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5632
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1c7bc5ac53e5a50800000000000000
+      internalID: 6511701254479528357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5120
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38dae4ca4dc1dd810800000000000000
+      internalID: 1791619926512807299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4608
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b7a96151810a310800000000000000
+      internalID: 1414156761846938524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4096
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de85b67a0c66cd600800000000000000
+      internalID: 494383036732496109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3584
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bd14f977873ee10800000000000000
+      internalID: 2225755096019491727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3072
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8be10a82c190d6d90800000000000000
+      internalID: -7103011020748087624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2560
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55aa1a28de5ce2880800000000000000
+      internalID: -8633745811733108139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2048
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121e5bd409fc93dc0800000000000000
+      internalID: -3658665003575811807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17c463581066a330800000000000000
+      internalID: 3721767799662888733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9c25010325ec480800000000000000
+      internalID: -8877067449114899971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3635fcd86cdafd0800000000000000
+      internalID: -2328987119909641276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Phase1AppearingComplete_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1024
+        height: 512
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c160204eb2ab87a60800000000000000
+      internalID: 7672086662897337884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

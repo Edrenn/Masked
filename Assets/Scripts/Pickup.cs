@@ -1,0 +1,22 @@
+﻿using Assets.Scripts;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class Pickup : MonoBehaviour
+{
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.tag == "Player")
+        {
+            FireBehaviour fireBehaviour = collision.GetComponentInChildren<FireBehaviour>();
+            fireBehaviour.UnlockGel();
+            Destroy(this.gameObject);
+        }
+    }
+
+    public void SetVisible()
+    {
+        GetComponent<SpriteRenderer>().enabled = true;
+    }
+}

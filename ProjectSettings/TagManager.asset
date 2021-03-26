@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sringe
+  - Tentacle
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - AllyProjectile
+  - Character
+  - Foreground
+  - Range
+  - Player
+  - Toppings
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 49189625
+    locked: 0
+  - name: Road
+    uniqueID: 4272754517
+    locked: 0
+  - name: Foreground
+    uniqueID: 354947775
+    locked: 0
+  - name: Windows
+    uniqueID: 3806658247
+    locked: 0
+  - name: AimArrow
+    uniqueID: 646816307
+    locked: 0
+  - name: Characters
+    uniqueID: 2910066999
+    locked: 0
+  - name: Projectiles
+    uniqueID: 518188867
+    locked: 0
+  - name: Toppings
+    uniqueID: 2164563815
+    locked: 0

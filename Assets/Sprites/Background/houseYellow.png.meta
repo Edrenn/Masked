@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 727500a7abade244bb8a412dffee9f6f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 652053487342782578
+    second: houseYellow_0
+  - first:
+      213: -1108305447697652065
+    second: houseYellow_1
+  - first:
+      213: 4910887453717833496
+    second: houseYellow_2
+  - first:
+      213: 9197890018725577187
+    second: houseYellow_3
+  - first:
+      213: -6694368636587354260
+    second: houseYellow_4
+  - first:
+      213: -2451935405794651022
+    second: houseYellow_5
+  - first:
+      213: 1843021917461858707
+    second: houseYellow_6
+  - first:
+      213: 7672963598909638433
+    second: houseYellow_7
+  - first:
+      213: -6851245082974271732
+    second: houseYellow_8
+  - first:
+      213: -611956238652764984
+    second: houseYellow_9
+  - first:
+      213: -3006531502510093869
+    second: houseYellow_10
+  - first:
+      213: 2153243479462012217
+    second: houseYellow_11
+  - first:
+      213: -4748952872530981575
+    second: houseYellow_12
+  - first:
+      213: 5235540524923927766
+    second: houseYellow_13
+  - first:
+      213: 7692284476173368448
+    second: houseYellow_14
+  - first:
+      213: -3187591073211146920
+    second: houseYellow_15
+  - first:
+      213: 8227219638991267785
+    second: houseYellow_16
+  - first:
+      213: -6227823030166033765
+    second: houseYellow_17
+  - first:
+      213: -6875120166972724870
+    second: houseYellow_18
+  - first:
+      213: -5588203612608503005
+    second: houseYellow_19
+  - first:
+      213: -4892288715462987863
+    second: houseYellow_20
+  - first:
+      213: 2573136583973213093
+    second: houseYellow_21
+  - first:
+      213: 1759306284485967107
+    second: houseYellow_22
+  - first:
+      213: 1667549387782372369
+    second: houseYellow_23
+  - first:
+      213: -1318915872171303073
+    second: houseYellow_24
+  - first:
+      213: -5179773759172365827
+    second: houseYellow_25
+  - first:
+      213: 4638478720679810969
+    second: houseYellow_26
+  - first:
+      213: 303953573425155298
+    second: houseYellow_27
+  - first:
+      213: 5536888240029099221
+    second: houseYellow_28
+  - first:
+      213: -54099921321501464
+    second: houseYellow_29
+  - first:
+      213: 8210078854628151467
+    second: houseYellow_30
+  - first:
+      213: -1734036927408985163
+    second: houseYellow_31
+  - first:
+      213: -1673106474680464274
+    second: houseYellow_32
+  - first:
+      213: -3862032991657756633
+    second: houseYellow_33
+  - first:
+      213: -3928095601295356111
+    second: houseYellow_34
+  - first:
+      213: 6991872542333830124
+    second: houseYellow_35
+  - first:
+      213: -8855889907333167033
+    second: houseYellow_36
+  - first:
+      213: 6324507497242498819
+    second: houseYellow_37
+  - first:
+      213: -6631010350858221815
+    second: houseYellow_38
+  - first:
+      213: 6647383902902514188
+    second: houseYellow_39
+  - first:
+      213: 2695410178120541327
+    second: houseYellow_40
+  - first:
+      213: -5847883077342273717
+    second: houseYellow_41
+  - first:
+      213: -1040533038151292963
+    second: houseYellow_42
+  - first:
+      213: 4016759886555913118
+    second: houseYellow_43
+  - first:
+      213: 1878957609418036366
+    second: houseYellow_44
+  - first:
+      213: -8346508535361067307
+    second: houseYellow_45
+  - first:
+      213: -3250142249733676462
+    second: houseYellow_46
+  - first:
+      213: 6130504829471272573
+    second: houseYellow_47
+  - first:
+      213: 5182670112230743571
+    second: houseYellow_48
+  - first:
+      213: 6179227928672051109
+    second: houseYellow_49
+  - first:
+      213: 9083384362768957529
+    second: houseYellow_50
+  - first:
+      213: 3824303726381527617
+    second: houseYellow_51
+  - first:
+      213: 3294935192011165823
+    second: houseYellow_52
+  - first:
+      213: 5498521960058331681
+    second: houseYellow_53
+  - first:
+      213: -3079348439111494862
+    second: houseYellow_54
+  - first:
+      213: -8113996455598724649
+    second: houseYellow_55
+  - first:
+      213: 1700821272387471411
+    second: houseYellow_56
+  - first:
+      213: 8456095307986384653
+    second: houseYellow_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houseYellow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2780f97213f8c0900800000000000000
+      internalID: 652053487342782578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96e95f31128e90f0800000000000000
+      internalID: -1108305447697652065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81726c2ce1af62440800000000000000
+      internalID: 4910887453717833496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399c29f4baab39910800000000000000
+      internalID: 1843021917461858707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc84011b05e187f0800000000000000
+      internalID: -611956238652764984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d94dda1787a646d0800000000000000
+      internalID: -3006531502510093869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9356244498bd1ed10800000000000000
+      internalID: 2153243479462012217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d1b08bec663c3d0800000000000000
+      internalID: -3187591073211146920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9ae4f253f35299a0800000000000000
+      internalID: -6227823030166033765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79677352aaa690a0800000000000000
+      internalID: -6875120166972724870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseYellow_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3236ae10c66b272b0800000000000000
+      internalID: -5588203612608503005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 8820c1baae90c1b48a43e2766eb24a5e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7632978378999411172
+    second: housePurple_0
+  - first:
+      213: 4597633067004521159
+    second: housePurple_1
+  - first:
+      213: -7957597016669015078
+    second: housePurple_2
+  - first:
+      213: -3954042104796657585
+    second: housePurple_3
+  - first:
+      213: 2067050408773604069
+    second: housePurple_4
+  - first:
+      213: 6905363049648306156
+    second: housePurple_5
+  - first:
+      213: -2202079209181916685
+    second: housePurple_6
+  - first:
+      213: -6458330196899575263
+    second: housePurple_7
+  - first:
+      213: -8365123690375427538
+    second: housePurple_8
+  - first:
+      213: -6618099359184383542
+    second: housePurple_9
+  - first:
+      213: -3366236687970366923
+    second: housePurple_10
+  - first:
+      213: 395199809709180701
+    second: housePurple_11
+  - first:
+      213: 6198298769672110555
+    second: housePurple_12
+  - first:
+      213: -3245062589404552162
+    second: housePurple_13
+  - first:
+      213: -1215511029555390802
+    second: housePurple_14
+  - first:
+      213: -4682936026946556699
+    second: housePurple_15
+  - first:
+      213: 421691920232408210
+    second: housePurple_16
+  - first:
+      213: -647233361116117611
+    second: housePurple_17
+  - first:
+      213: 3763015743400876991
+    second: housePurple_18
+  - first:
+      213: -7384415540955172906
+    second: housePurple_19
+  - first:
+      213: -751279996943360705
+    second: housePurple_20
+  - first:
+      213: -1093903304466403214
+    second: housePurple_21
+  - first:
+      213: -4775476085852508748
+    second: housePurple_22
+  - first:
+      213: -4247845395997151361
+    second: housePurple_23
+  - first:
+      213: 4849243625707991361
+    second: housePurple_24
+  - first:
+      213: 5206762611659812266
+    second: housePurple_25
+  - first:
+      213: -6939221647121741462
+    second: housePurple_26
+  - first:
+      213: -4180613816817886472
+    second: housePurple_27
+  - first:
+      213: -3399105340549904174
+    second: housePurple_28
+  - first:
+      213: -8418645078473747747
+    second: housePurple_29
+  - first:
+      213: 1961255433746543183
+    second: housePurple_30
+  - first:
+      213: -5999914006577379794
+    second: housePurple_31
+  - first:
+      213: 4612467718695515764
+    second: housePurple_32
+  - first:
+      213: 1130155930590499159
+    second: housePurple_33
+  - first:
+      213: -6227940018567809821
+    second: housePurple_34
+  - first:
+      213: -3715180379096611719
+    second: housePurple_35
+  - first:
+      213: -473793700013297658
+    second: housePurple_36
+  - first:
+      213: -4019527692051672760
+    second: housePurple_37
+  - first:
+      213: -2486986057402823363
+    second: housePurple_38
+  - first:
+      213: 1613564195838192318
+    second: housePurple_39
+  - first:
+      213: 5434014555605272423
+    second: housePurple_40
+  - first:
+      213: -6455656049721342233
+    second: housePurple_41
+  - first:
+      213: -1106457327088393284
+    second: housePurple_42
+  - first:
+      213: 6172546826628672700
+    second: housePurple_43
+  - first:
+      213: -4765708632686238229
+    second: housePurple_44
+  - first:
+      213: 8196038020431330341
+    second: housePurple_45
+  - first:
+      213: -7943383632537856099
+    second: housePurple_46
+  - first:
+      213: -208095469461328617
+    second: housePurple_47
+  - first:
+      213: 2915089032370400176
+    second: housePurple_48
+  - first:
+      213: 7033329780301497317
+    second: housePurple_49
+  - first:
+      213: -2956552795134556006
+    second: housePurple_50
+  - first:
+      213: -3706171845511489001
+    second: housePurple_51
+  - first:
+      213: -708037592857010994
+    second: housePurple_52
+  - first:
+      213: 4644851010323444356
+    second: housePurple_53
+  - first:
+      213: 4799941804332822147
+    second: housePurple_54
+  - first:
+      213: 7657793486261975566
+    second: housePurple_55
+  - first:
+      213: 7339699117437296252
+    second: housePurple_56
+  - first:
+      213: -66393599581805032
+    second: housePurple_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: housePurple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e13f7af469cde960800000000000000
+      internalID: 7632978378999411172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cae4664ae21ecf30800000000000000
+      internalID: 4597633067004521159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad33cbbacafe09190800000000000000
+      internalID: -7957597016669015078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1507950a4a071e0800000000000000
+      internalID: -2202079209181916685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1139f62b9c724a0800000000000000
+      internalID: -6618099359184383542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a83af3199b841d0800000000000000
+      internalID: -3366236687970366923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17840112280c7500800000000000000
+      internalID: 395199809709180701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eca8f7ae7ed20fb0800000000000000
+      internalID: -4682936026946556699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59544efefa09407f0800000000000000
+      internalID: -647233361116117611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb9c9d91eae83430800000000000000
+      internalID: 3763015743400876991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: housePurple_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df2e779039458990800000000000000
+      internalID: -7384415540955172906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

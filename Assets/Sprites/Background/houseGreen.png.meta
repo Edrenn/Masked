@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 32051060b4548a34eb51a0c55cb56c1b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1860216535024333749
+    second: houseGreen_0
+  - first:
+      213: -3834371243685977217
+    second: houseGreen_1
+  - first:
+      213: -8324446134553950493
+    second: houseGreen_2
+  - first:
+      213: -5071556613146949460
+    second: houseGreen_3
+  - first:
+      213: 507045205371334965
+    second: houseGreen_4
+  - first:
+      213: 1106270075506800283
+    second: houseGreen_5
+  - first:
+      213: -7304905120089657135
+    second: houseGreen_6
+  - first:
+      213: 3668359652767562802
+    second: houseGreen_7
+  - first:
+      213: 6208727557516270615
+    second: houseGreen_8
+  - first:
+      213: 2393532894334681529
+    second: houseGreen_9
+  - first:
+      213: -5501570735603504794
+    second: houseGreen_10
+  - first:
+      213: -3322679516752358789
+    second: houseGreen_11
+  - first:
+      213: -6885461360369884152
+    second: houseGreen_12
+  - first:
+      213: 6620473581474382463
+    second: houseGreen_13
+  - first:
+      213: -2199285864249713053
+    second: houseGreen_14
+  - first:
+      213: 7640190514932449921
+    second: houseGreen_15
+  - first:
+      213: 4524978734057640447
+    second: houseGreen_16
+  - first:
+      213: 8030216720919834794
+    second: houseGreen_17
+  - first:
+      213: -8416181725841072436
+    second: houseGreen_18
+  - first:
+      213: -8668687739400808605
+    second: houseGreen_19
+  - first:
+      213: -1160490289073543145
+    second: houseGreen_20
+  - first:
+      213: -4019353166365994934
+    second: houseGreen_21
+  - first:
+      213: 1312333601787116953
+    second: houseGreen_22
+  - first:
+      213: 8562914627345320517
+    second: houseGreen_23
+  - first:
+      213: -8533489742472209129
+    second: houseGreen_24
+  - first:
+      213: 2840404231146918814
+    second: houseGreen_25
+  - first:
+      213: 6354077827779988443
+    second: houseGreen_26
+  - first:
+      213: 3242656310150753111
+    second: houseGreen_27
+  - first:
+      213: 301018390354185741
+    second: houseGreen_28
+  - first:
+      213: 6041235352202266805
+    second: houseGreen_29
+  - first:
+      213: 6458242876488779817
+    second: houseGreen_30
+  - first:
+      213: 6327805744272245684
+    second: houseGreen_31
+  - first:
+      213: -4035214685269572312
+    second: houseGreen_32
+  - first:
+      213: 1379810222961810370
+    second: houseGreen_33
+  - first:
+      213: -3844093390337110977
+    second: houseGreen_34
+  - first:
+      213: -6786218497803307881
+    second: houseGreen_35
+  - first:
+      213: -9132489480934182969
+    second: houseGreen_36
+  - first:
+      213: 4156521492418315897
+    second: houseGreen_37
+  - first:
+      213: -8822724684068035991
+    second: houseGreen_38
+  - first:
+      213: 6880957053928171331
+    second: houseGreen_39
+  - first:
+      213: -4760456372749253812
+    second: houseGreen_40
+  - first:
+      213: 8770639145529110769
+    second: houseGreen_41
+  - first:
+      213: -894211472907476885
+    second: houseGreen_42
+  - first:
+      213: -7014394467077369866
+    second: houseGreen_43
+  - first:
+      213: -3571617964667586836
+    second: houseGreen_44
+  - first:
+      213: 1917346795410793470
+    second: houseGreen_45
+  - first:
+      213: 3493599125021526707
+    second: houseGreen_46
+  - first:
+      213: 4490554961890272698
+    second: houseGreen_47
+  - first:
+      213: -2299878984509036976
+    second: houseGreen_48
+  - first:
+      213: -3502370665055299939
+    second: houseGreen_49
+  - first:
+      213: 8916188011728770877
+    second: houseGreen_50
+  - first:
+      213: -2093376485137492001
+    second: houseGreen_51
+  - first:
+      213: 2096506063022040640
+    second: houseGreen_52
+  - first:
+      213: -2962939540315870803
+    second: houseGreen_53
+  - first:
+      213: 2393439224107506498
+    second: houseGreen_54
+  - first:
+      213: -929779387111315929
+    second: houseGreen_55
+  - first:
+      213: -5750450309113315296
+    second: houseGreen_56
+  - first:
+      213: 3449902225400266932
+    second: houseGreen_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houseGreen_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c0190daee2f26e0800000000000000
+      internalID: -1860216535024333749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ef135ba399cac0800000000000000
+      internalID: -3834371243685977217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6c90e6850a97c80800000000000000
+      internalID: -8324446134553950493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d0bf1f0f73cf9a90800000000000000
+      internalID: -7304905120089657135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b108056c79873120800000000000000
+      internalID: 2393532894334681529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6692ba5809e76a3b0800000000000000
+      internalID: -5501570735603504794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b725285759873e1d0800000000000000
+      internalID: -3322679516752358789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1828bda3bc8670a60800000000000000
+      internalID: 7640190514932449921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa034dfcf8f017f60800000000000000
+      internalID: 8030216720919834794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccedb1aaf47b33b80800000000000000
+      internalID: -8416181725841072436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseGreen_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3671b300e62a2b780800000000000000
+      internalID: -8668687739400808605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

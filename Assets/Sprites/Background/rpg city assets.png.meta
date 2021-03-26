@@ -1,0 +1,1726 @@
+fileFormatVersion: 2
+guid: 6b20a5b53e8b8ec4080462749d762382
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8946341941672886095
+    second: rpg city assets_0
+  - first:
+      213: 4494347017684808511
+    second: rpg city assets_1
+  - first:
+      213: -3310317956156167104
+    second: rpg city assets_2
+  - first:
+      213: 2513570188907121681
+    second: rpg city assets_3
+  - first:
+      213: 5069186965880741389
+    second: rpg city assets_4
+  - first:
+      213: 9178462087127495075
+    second: rpg city assets_5
+  - first:
+      213: -6178974868883652891
+    second: rpg city assets_6
+  - first:
+      213: -2482097751851561039
+    second: rpg city assets_7
+  - first:
+      213: -5484414034565710696
+    second: rpg city assets_8
+  - first:
+      213: 7307304888196900901
+    second: rpg city assets_9
+  - first:
+      213: -5745657056451990106
+    second: rpg city assets_10
+  - first:
+      213: 1316365895136053632
+    second: rpg city assets_11
+  - first:
+      213: 157542535177240087
+    second: rpg city assets_12
+  - first:
+      213: 7734011019451118747
+    second: rpg city assets_13
+  - first:
+      213: 811160435102761888
+    second: rpg city assets_14
+  - first:
+      213: 4247255635357311811
+    second: rpg city assets_15
+  - first:
+      213: -5825572220161181078
+    second: rpg city assets_16
+  - first:
+      213: -3274238207220008253
+    second: rpg city assets_17
+  - first:
+      213: -1144142884234724210
+    second: rpg city assets_18
+  - first:
+      213: 4879658029434304294
+    second: rpg city assets_19
+  - first:
+      213: 9063392006310020693
+    second: rpg city assets_20
+  - first:
+      213: 8591741004970270867
+    second: rpg city assets_21
+  - first:
+      213: -7451783429942969217
+    second: rpg city assets_22
+  - first:
+      213: -5538962958104637808
+    second: rpg city assets_23
+  - first:
+      213: -4668457665486497488
+    second: rpg city assets_24
+  - first:
+      213: -4991487681154741071
+    second: rpg city assets_25
+  - first:
+      213: -1333681633698646812
+    second: rpg city assets_26
+  - first:
+      213: -1817544157641381547
+    second: rpg city assets_27
+  - first:
+      213: -5340087703411363976
+    second: rpg city assets_28
+  - first:
+      213: -8267144202141364183
+    second: rpg city assets_29
+  - first:
+      213: -8527868239148429069
+    second: rpg city assets_30
+  - first:
+      213: 8672772363519368984
+    second: rpg city assets_31
+  - first:
+      213: 6813421782635484355
+    second: rpg city assets_32
+  - first:
+      213: -3092087796615193530
+    second: rpg city assets_33
+  - first:
+      213: 654018487391975559
+    second: rpg city assets_34
+  - first:
+      213: -5504423393138866618
+    second: rpg city assets_35
+  - first:
+      213: -9129174567408916106
+    second: rpg city assets_36
+  - first:
+      213: -3913276607946588171
+    second: rpg city assets_37
+  - first:
+      213: 6389445036872894313
+    second: rpg city assets_38
+  - first:
+      213: 8715145605701511717
+    second: rpg city assets_39
+  - first:
+      213: 3521299171870930101
+    second: rpg city assets_40
+  - first:
+      213: 4554471012224230352
+    second: rpg city assets_41
+  - first:
+      213: -4444939082257296878
+    second: rpg city assets_42
+  - first:
+      213: -685502696681418685
+    second: rpg city assets_43
+  - first:
+      213: 2874050309937557554
+    second: rpg city assets_44
+  - first:
+      213: -1131533412671117212
+    second: rpg city assets_45
+  - first:
+      213: 409280227025706322
+    second: rpg city assets_46
+  - first:
+      213: -6038191432119836758
+    second: rpg city assets_47
+  - first:
+      213: 6864294569475785512
+    second: rpg city assets_48
+  - first:
+      213: -4510242590134557113
+    second: rpg city assets_49
+  - first:
+      213: 3880007708570607021
+    second: rpg city assets_50
+  - first:
+      213: 1480902254053554667
+    second: rpg city assets_51
+  - first:
+      213: 2703032949991443533
+    second: rpg city assets_52
+  - first:
+      213: 5678087704615090397
+    second: rpg city assets_53
+  - first:
+      213: -8174522078024905353
+    second: rpg city assets_54
+  - first:
+      213: 4218883335104229737
+    second: rpg city assets_55
+  - first:
+      213: 6888447514111883243
+    second: rpg city assets_56
+  - first:
+      213: 313817631636788908
+    second: rpg city assets_57
+  - first:
+      213: -4844835077155388374
+    second: rpg city assets_58
+  - first:
+      213: -6531119969946362357
+    second: rpg city assets_59
+  - first:
+      213: -6805599583145261366
+    second: rpg city assets_60
+  - first:
+      213: -4327185621070164940
+    second: rpg city assets_61
+  - first:
+      213: -4123718518209977024
+    second: rpg city assets_62
+  - first:
+      213: -4345364020271145420
+    second: rpg city assets_63
+  - first:
+      213: 5721734771089862055
+    second: rpg city assets_64
+  - first:
+      213: 1541902061957281631
+    second: rpg city assets_65
+  - first:
+      213: 8835286380875141971
+    second: rpg city assets_66
+  - first:
+      213: -683945606754588599
+    second: rpg city assets_67
+  - first:
+      213: 4095361341170937900
+    second: rpg city assets_68
+  - first:
+      213: 1905216375506160397
+    second: rpg city assets_69
+  - first:
+      213: 7861590031152407933
+    second: rpg city assets_70
+  - first:
+      213: 7051721118766003216
+    second: rpg city assets_71
+  - first:
+      213: 1695398980895671194
+    second: rpg city assets_72
+  - first:
+      213: -8901999652204313313
+    second: rpg city assets_73
+  - first:
+      213: -604307537114669686
+    second: rpg city assets_74
+  - first:
+      213: 6626748071692675878
+    second: rpg city assets_75
+  - first:
+      213: -3165230624844752794
+    second: rpg city assets_76
+  - first:
+      213: 8217078304681684225
+    second: rpg city assets_77
+  - first:
+      213: 7404682711185085922
+    second: rpg city assets_78
+  - first:
+      213: -1540438236076301270
+    second: rpg city assets_79
+  - first:
+      213: -3254513877242149847
+    second: rpg city assets_80
+  - first:
+      213: -4606866847017507302
+    second: rpg city assets_81
+  - first:
+      213: -5491393182447347540
+    second: rpg city assets_82
+  - first:
+      213: -5415798190987055993
+    second: rpg city assets_83
+  - first:
+      213: 4095241605671053654
+    second: rpg city assets_84
+  - first:
+      213: -8476126210878262057
+    second: rpg city assets_85
+  - first:
+      213: 4719990147200500558
+    second: rpg city assets_86
+  - first:
+      213: 1898455496757352518
+    second: rpg city assets_87
+  - first:
+      213: 996109862716852070
+    second: rpg city assets_88
+  - first:
+      213: -5516512345273884089
+    second: rpg city assets_89
+  - first:
+      213: -6053009528138281187
+    second: rpg city assets_90
+  - first:
+      213: 5060239439999714382
+    second: rpg city assets_91
+  - first:
+      213: -5621221604354781131
+    second: rpg city assets_92
+  - first:
+      213: -4814541634916296339
+    second: rpg city assets_93
+  - first:
+      213: -6230109214919967821
+    second: rpg city assets_94
+  - first:
+      213: -9133505416695982419
+    second: rpg city assets_95
+  - first:
+      213: 7183966714528201462
+    second: rpg city assets_96
+  - first:
+      213: 6366745257657152644
+    second: rpg city assets_97
+  - first:
+      213: -4683463343084812733
+    second: rpg city assets_98
+  - first:
+      213: -6346484862662580246
+    second: rpg city assets_99
+  - first:
+      213: -7094066110812819972
+    second: rpg city assets_100
+  - first:
+      213: -8851947413809347825
+    second: rpg city assets_101
+  - first:
+      213: 3391118876861412896
+    second: rpg city assets_102
+  - first:
+      213: -1962458732662335364
+    second: rpg city assets_103
+  - first:
+      213: -7491511163035476167
+    second: rpg city assets_104
+  - first:
+      213: 5343901514495191298
+    second: rpg city assets_105
+  - first:
+      213: -7385744112999779686
+    second: rpg city assets_106
+  - first:
+      213: -7442149082220793587
+    second: rpg city assets_107
+  - first:
+      213: -8462288009347517585
+    second: rpg city assets_108
+  - first:
+      213: -4427599102022667743
+    second: rpg city assets_109
+  - first:
+      213: 1323712388558425550
+    second: rpg city assets_110
+  - first:
+      213: 7882053972515756330
+    second: rpg city assets_111
+  - first:
+      213: -7116165900082123014
+    second: rpg city assets_112
+  - first:
+      213: 5687963975648942308
+    second: rpg city assets_113
+  - first:
+      213: 4586259391262712218
+    second: rpg city assets_114
+  - first:
+      213: -4841717924255185647
+    second: rpg city assets_115
+  - first:
+      213: 372561599824522062
+    second: rpg city assets_116
+  - first:
+      213: -1378070195817330042
+    second: rpg city assets_117
+  - first:
+      213: -4480164341496458264
+    second: rpg city assets_118
+  - first:
+      213: 5047280988303276497
+    second: rpg city assets_119
+  - first:
+      213: 3688498600456252267
+    second: rpg city assets_120
+  - first:
+      213: -7134893947173125933
+    second: rpg city assets_121
+  - first:
+      213: 3253497780559959403
+    second: rpg city assets_122
+  - first:
+      213: -6337386931766015140
+    second: rpg city assets_123
+  - first:
+      213: -8698499597402663519
+    second: rpg city assets_124
+  - first:
+      213: -8939970049670825738
+    second: rpg city assets_125
+  - first:
+      213: -7787807441153775489
+    second: rpg city assets_126
+  - first:
+      213: 6541056215664662918
+    second: rpg city assets_127
+  - first:
+      213: -1456056590646350299
+    second: rpg city assets_128
+  - first:
+      213: 1417177655401383251
+    second: rpg city assets_129
+  - first:
+      213: -2585004344680537783
+    second: rpg city assets_130
+  - first:
+      213: 7461706077066104903
+    second: rpg city assets_131
+  - first:
+      213: -8039731762834041086
+    second: rpg city assets_132
+  - first:
+      213: -8253554386712487344
+    second: rpg city assets_133
+  - first:
+      213: -709258520102037725
+    second: rpg city assets_134
+  - first:
+      213: 4519694394967330901
+    second: rpg city assets_135
+  - first:
+      213: 350126204212996262
+    second: rpg city assets_136
+  - first:
+      213: 3120374890842339683
+    second: rpg city assets_137
+  - first:
+      213: 613456452971554111
+    second: rpg city assets_138
+  - first:
+      213: -236896848486185745
+    second: rpg city assets_139
+  - first:
+      213: 901525906552495351
+    second: rpg city assets_140
+  - first:
+      213: -1238268678963081118
+    second: rpg city assets_141
+  - first:
+      213: 5246842735240582053
+    second: rpg city assets_142
+  - first:
+      213: 311359022612986789
+    second: rpg city assets_143
+  - first:
+      213: -2874444481929067035
+    second: rpg city assets_144
+  - first:
+      213: -763006757545948715
+    second: rpg city assets_145
+  - first:
+      213: -4393085713563994840
+    second: rpg city assets_146
+  - first:
+      213: 7714414390450794177
+    second: rpg city assets_147
+  - first:
+      213: 3814817955524944950
+    second: rpg city assets_148
+  - first:
+      213: 5905506921515961680
+    second: rpg city assets_149
+  - first:
+      213: -2849565506540128588
+    second: rpg city assets_150
+  - first:
+      213: -3813282226948563668
+    second: rpg city assets_151
+  - first:
+      213: -5014785688955762210
+    second: rpg city assets_152
+  - first:
+      213: 140989650945284921
+    second: rpg city assets_153
+  - first:
+      213: -6069897942848901802
+    second: rpg city assets_154
+  - first:
+      213: 2818155885132440393
+    second: rpg city assets_155
+  - first:
+      213: -5284504507099259828
+    second: rpg city assets_156
+  - first:
+      213: 4530867620318886476
+    second: rpg city assets_157
+  - first:
+      213: -1512964683130720163
+    second: rpg city assets_158
+  - first:
+      213: 6030769277962150438
+    second: rpg city assets_159
+  - first:
+      213: 4762830378886565543
+    second: rpg city assets_160
+  - first:
+      213: -5983633282679833018
+    second: rpg city assets_161
+  - first:
+      213: 2345258541593134624
+    second: rpg city assets_162
+  - first:
+      213: -4269735856143313935
+    second: rpg city assets_163
+  - first:
+      213: 7783194826731317509
+    second: rpg city assets_164
+  - first:
+      213: -8327333442489832038
+    second: rpg city assets_165
+  - first:
+      213: 7367851970317752323
+    second: rpg city assets_166
+  - first:
+      213: 1687299896431340407
+    second: rpg city assets_167
+  - first:
+      213: 3738280866679269519
+    second: rpg city assets_168
+  - first:
+      213: 8109080616073823831
+    second: rpg city assets_169
+  - first:
+      213: -8686921232268348554
+    second: rpg city assets_170
+  - first:
+      213: 1319899684819747096
+    second: rpg city assets_171
+  - first:
+      213: -3805918901854124944
+    second: rpg city assets_172
+  - first:
+      213: -4801237850724165229
+    second: rpg city assets_173
+  - first:
+      213: -2015230098994032634
+    second: rpg city assets_174
+  - first:
+      213: 2482279732329175870
+    second: rpg city assets_175
+  - first:
+      213: -8905148706275330313
+    second: rpg city assets_176
+  - first:
+      213: -6110930175915034404
+    second: rpg city assets_177
+  - first:
+      213: -2085022798190274877
+    second: rpg city assets_178
+  - first:
+      213: -8284413856258787308
+    second: rpg city assets_179
+  - first:
+      213: 8739044688440183495
+    second: rpg city assets_180
+  - first:
+      213: -4485929507750911538
+    second: rpg city assets_181
+  - first:
+      213: 6922849159067429929
+    second: rpg city assets_182
+  - first:
+      213: -3398431411041357646
+    second: rpg city assets_183
+  - first:
+      213: 2332371969997346316
+    second: rpg city assets_184
+  - first:
+      213: -7470707652089541237
+    second: rpg city assets_185
+  - first:
+      213: -2698628117455974702
+    second: rpg city assets_186
+  - first:
+      213: -9189960309321971187
+    second: rpg city assets_187
+  - first:
+      213: -258452812969999678
+    second: rpg city assets_188
+  - first:
+      213: -8165057165209610532
+    second: rpg city assets_189
+  - first:
+      213: 1164922297398998381
+    second: rpg city assets_190
+  - first:
+      213: 4106776711273083706
+    second: rpg city assets_191
+  - first:
+      213: 6809719085182421089
+    second: rpg city assets_192
+  - first:
+      213: -6774977186432230927
+    second: rpg city assets_193
+  - first:
+      213: 3551881553773402252
+    second: rpg city assets_194
+  - first:
+      213: 884725070557062076
+    second: rpg city assets_195
+  - first:
+      213: -501577638559009351
+    second: rpg city assets_196
+  - first:
+      213: -683632861505163097
+    second: rpg city assets_197
+  - first:
+      213: 2233019950978252071
+    second: rpg city assets_198
+  - first:
+      213: -8729212769545378545
+    second: rpg city assets_199
+  - first:
+      213: 8443197255645818050
+    second: rpg city assets_200
+  - first:
+      213: 8082737190480568921
+    second: rpg city assets_201
+  - first:
+      213: 4130124331403875360
+    second: rpg city assets_202
+  - first:
+      213: -5256193033862928611
+    second: rpg city assets_203
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: rpg city assets_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0c86f576538d380800000000000000
+      internalID: -8946341941672886095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f33707eecc02f5e30800000000000000
+      internalID: 4494347017684808511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ce6b19b536f02d0800000000000000
+      internalID: -3310317956156167104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c02d3f4cef1e220800000000000000
+      internalID: 2513570188907121681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e9c5110be595640800000000000000
+      internalID: 5069186965880741389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1ff9f73a2706f70800000000000000
+      internalID: 9178462087127495075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 78
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eebf18281fdf3aa0800000000000000
+      internalID: -6178974868883652891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf8713de31dd8dd0800000000000000
+      internalID: -2482097751851561039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c3b844e7273e3b0800000000000000
+      internalID: -5484414034565710696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528a37e7413c86560800000000000000
+      internalID: 7307304888196900901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad66f459535340b0800000000000000
+      internalID: -5745657056451990106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0890606aecba44210800000000000000
+      internalID: 1316365895136053632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71ef04ed914bf2200800000000000000
+      internalID: 157542535177240087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b94375fab0ab45b60800000000000000
+      internalID: 7734011019451118747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a3c6263e12d14b00800000000000000
+      internalID: 811160435102761888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343afb75f7841fa30800000000000000
+      internalID: 4247255635357311811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ab8e35ee8672fa0800000000000000
+      internalID: -5825572220161181078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cab3acb2b19f82d0800000000000000
+      internalID: -3274238207220008253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8cf5e4db103f10f0800000000000000
+      internalID: -1144142884234724210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_19
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62770ddcf1708b340800000000000000
+      internalID: 4879658029434304294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55649348203a7cd70800000000000000
+      internalID: 9063392006310020693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390296b4ceefb3770800000000000000
+      internalID: 8591741004970270867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_22
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c7b13a372f59890800000000000000
+      internalID: -7451783429942969217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e402a4986a123b0800000000000000
+      internalID: -5538962958104637808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0395abfdc7e463fb0800000000000000
+      internalID: -4668457665486497488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc8808666caabab0800000000000000
+      internalID: -4991487681154741071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e4fdebce9fcd7de0800000000000000
+      internalID: -1333681633698646812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 559e238e739c6c6e0800000000000000
+      internalID: -1817544157641381547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87febb8d68234e5b0800000000000000
+      internalID: -5340087703411363976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9201f6c3624354d80800000000000000
+      internalID: -8267144202141364183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f0d832e40de6a980800000000000000
+      internalID: -8527868239148429069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f9569a380eb5870800000000000000
+      internalID: 8672772363519368984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c495e223032e8e50800000000000000
+      internalID: 6813421782635484355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_33
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c5e641882b615d0800000000000000
+      internalID: -3092087796615193530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7887981695a831900800000000000000
+      internalID: 654018487391975559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_35
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6468b9e661c5c93b0800000000000000
+      internalID: -5504423393138866618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679af017918ae4180800000000000000
+      internalID: -9129174567408916106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7f7398af31b9c0800000000000000
+      internalID: -3913276607946588171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96701b6886edba850800000000000000
+      internalID: 6389445036872894313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a25a9e0ca62f870800000000000000
+      internalID: 8715145605701511717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b47e3fa0fa2ed030800000000000000
+      internalID: 3521299171870930101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d36077414bb43f30800000000000000
+      internalID: 4554471012224230352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2129dc974776052c0800000000000000
+      internalID: -4444939082257296878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_43
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3405bb7edea9c76f0800000000000000
+      internalID: -685502696681418685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_44
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 230fd6e878da2e720800000000000000
+      internalID: 2874050309937557554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_45
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468a0463b5cfb40f0800000000000000
+      internalID: -1131533412671117212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d5571b23e0ea500800000000000000
+      internalID: 409280227025706322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: rpg city assets_47
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf90ba52e8043ca0800000000000000
+      internalID: -6038191432119836758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

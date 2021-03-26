@@ -1,0 +1,511 @@
+fileFormatVersion: 2
+guid: 6a0fc56bc79f1dc4d907ea99ea1c389c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3760773537822219412
+    second: houseBlue_0
+  - first:
+      213: 7909134469345923517
+    second: houseBlue_1
+  - first:
+      213: -5743894831593612063
+    second: houseBlue_2
+  - first:
+      213: -4261706500820963091
+    second: houseBlue_3
+  - first:
+      213: 1476384719731389208
+    second: houseBlue_4
+  - first:
+      213: 255273279917783174
+    second: houseBlue_5
+  - first:
+      213: 4809342707243646156
+    second: houseBlue_6
+  - first:
+      213: -442385888533819269
+    second: houseBlue_7
+  - first:
+      213: 6463365984082508460
+    second: houseBlue_8
+  - first:
+      213: -8031372238180425103
+    second: houseBlue_9
+  - first:
+      213: 8817036120347578967
+    second: houseBlue_10
+  - first:
+      213: -1375247799523753874
+    second: houseBlue_11
+  - first:
+      213: -6451526176498807613
+    second: houseBlue_12
+  - first:
+      213: 3860367407230597208
+    second: houseBlue_13
+  - first:
+      213: 1188284849592049637
+    second: houseBlue_14
+  - first:
+      213: -4844114046144263166
+    second: houseBlue_15
+  - first:
+      213: -3054961626672244833
+    second: houseBlue_16
+  - first:
+      213: -2742127277578947642
+    second: houseBlue_17
+  - first:
+      213: 3543376014198491
+    second: houseBlue_18
+  - first:
+      213: 1276887088324006291
+    second: houseBlue_19
+  - first:
+      213: -6951868309577147158
+    second: houseBlue_20
+  - first:
+      213: 4842685881378576697
+    second: houseBlue_21
+  - first:
+      213: 8332535751485214155
+    second: houseBlue_22
+  - first:
+      213: -1063938372211105176
+    second: houseBlue_23
+  - first:
+      213: -8194368568453448525
+    second: houseBlue_24
+  - first:
+      213: 4518744398822376779
+    second: houseBlue_25
+  - first:
+      213: -5099650033783743034
+    second: houseBlue_26
+  - first:
+      213: 8777027981645975931
+    second: houseBlue_27
+  - first:
+      213: 3034504290210682687
+    second: houseBlue_28
+  - first:
+      213: -5094763882525252244
+    second: houseBlue_29
+  - first:
+      213: 5808489494990182514
+    second: houseBlue_30
+  - first:
+      213: -153155654586756701
+    second: houseBlue_31
+  - first:
+      213: 8605151933865601842
+    second: houseBlue_32
+  - first:
+      213: -5093574699706126965
+    second: houseBlue_33
+  - first:
+      213: -3740709897593173107
+    second: houseBlue_34
+  - first:
+      213: 5149173249182001204
+    second: houseBlue_35
+  - first:
+      213: 6813636464545655946
+    second: houseBlue_36
+  - first:
+      213: 3738578426672291079
+    second: houseBlue_37
+  - first:
+      213: 6814066940535589451
+    second: houseBlue_38
+  - first:
+      213: 4917774784869505278
+    second: houseBlue_39
+  - first:
+      213: 2738601521532380301
+    second: houseBlue_40
+  - first:
+      213: 2019761383666859279
+    second: houseBlue_41
+  - first:
+      213: -4717381424900289784
+    second: houseBlue_42
+  - first:
+      213: -2842216063326900624
+    second: houseBlue_43
+  - first:
+      213: -5974965697226972450
+    second: houseBlue_44
+  - first:
+      213: -4282481535589074269
+    second: houseBlue_45
+  - first:
+      213: -277288543822475432
+    second: houseBlue_46
+  - first:
+      213: -2526969528581904584
+    second: houseBlue_47
+  - first:
+      213: -3176382149530540997
+    second: houseBlue_48
+  - first:
+      213: 782079411329165908
+    second: houseBlue_49
+  - first:
+      213: -7478145153824290546
+    second: houseBlue_50
+  - first:
+      213: 4741706100366695135
+    second: houseBlue_51
+  - first:
+      213: 3894375690542801472
+    second: houseBlue_52
+  - first:
+      213: -4530298070879332947
+    second: houseBlue_53
+  - first:
+      213: -1987034217507082486
+    second: houseBlue_54
+  - first:
+      213: -3429405650544800672
+    second: houseBlue_55
+  - first:
+      213: -6754190965538461220
+    second: houseBlue_56
+  - first:
+      213: -3689242735390443383
+    second: houseBlue_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: houseBlue_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c63ea6d846c0fcbc0800000000000000
+      internalID: -3760773537822219412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db1592e35e3e2cd60800000000000000
+      internalID: 7909134469345923517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec19a745169940b0800000000000000
+      internalID: -5743894831593612063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc7f5416b73eb240800000000000000
+      internalID: 4809342707243646156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172625c5085da8090800000000000000
+      internalID: -8031372238180425103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_10
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7521b1503a76c5a70800000000000000
+      internalID: 8817036120347578967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_11
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e60cf37a9632aece0800000000000000
+      internalID: -1375247799523753874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c4714b0ff36ccb0800000000000000
+      internalID: -4844114046144263166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c37ffaf4c102f9d0800000000000000
+      internalID: -2742127277578947642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6c1a48ea69c0000800000000000000
+      internalID: 3543376014198491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: houseBlue_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391d5d5aa0a68b110800000000000000
+      internalID: 1276887088324006291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
