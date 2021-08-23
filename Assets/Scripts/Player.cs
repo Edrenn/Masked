@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace Assets.Scripts
 {
-    public class Player : MonoBehaviour
+    public class Player : MonoBehaviour, IInfectable
     {
         #region Variables
         [SerializeField] float walkSpeed = 2f;
@@ -15,6 +15,7 @@ namespace Assets.Scripts
         [SerializeField] private int healthPoint = 3;
         [SerializeField] private float invicibilityFrameDuration;
         [SerializeField] private bool canTakeDamage = true;
+        private Animator uiAnimator;
         public bool CanDoThings = true;
         bool isAimingWeaponLeft = false;
         bool isAimingWeaponRight = false;
@@ -28,6 +29,7 @@ namespace Assets.Scripts
         {
             rigidbody = GetComponent<Rigidbody2D>();
             currentSpeed = walkSpeed;
+            uiAnimator = FindObjectOfType<UIManager>().GetComponentInChildren<Animator>();
         }
 
         // Update is called once per frame
@@ -48,6 +50,11 @@ namespace Assets.Scripts
             else if (horizontalAxeValue < 0)
                 FlipSprite(-1);
             verticalAxeValue = Input.GetAxisRaw("Vertical");
+
+            if (horizontalAxeValue != 0 || verticalAxeValue != 0)
+                uiAnimator.SetBool("IsMoving",true);
+            else
+                uiAnimator.SetBool("IsMoving",false);
 
             // Set Running
             if (Input.GetButton("Run"))
@@ -86,6 +93,11 @@ namespace Assets.Scripts
                 rigidbody.velocity = Vector2.zero;
         }
 
+        public void SetCanTakeDamage(bool value)
+        {
+            canTakeDamage = value;
+        }
+
         public void TakeDamage()
         {
             if (canTakeDamage)
@@ -109,6 +121,11 @@ namespace Assets.Scripts
             yield return new WaitForSeconds(invicibilityFrameDuration);
             currentAnimator.SetBool("CanTakeDamage", true);
             canTakeDamage = true;
+        }
+
+        public void GotSneezedOn()
+        {
+            TakeDamage();
         }
     }
 }

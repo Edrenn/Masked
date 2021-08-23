@@ -10,16 +10,31 @@ namespace Assets.Scripts
 {
     public class UIManager : MonoBehaviour
     {
+        [SerializeField] GameObject weaponUI;
         [SerializeField] GameObject maskImage;
         [SerializeField] GameObject sringeImage;
         [SerializeField] GameObject gelImage;
         [SerializeField] Animator cinematicBarAnimator;
+        [SerializeField] Animator phoneAnimator;
         [SerializeField] GameObject cinematicBar;
+
+        private bool isPhoneShowed = false;
 
         private void Start()
         {
             if (cinematicBarAnimator != null && cinematicBar != null)
                 SetCinematicBarsActive(true);
+        }
+
+        private void Update() {
+            if (Input.GetKeyDown(KeyCode.Tab)){
+                if (isPhoneShowed)
+                    phoneAnimator.SetTrigger("HideObjectives");
+                else
+                    phoneAnimator.SetTrigger("ShowObjectives");
+
+                isPhoneShowed = !isPhoneShowed;
+            }
         }
 
         public void SetMaskImage()
@@ -62,6 +77,10 @@ namespace Assets.Scripts
                 GetComponent<Animator>().SetTrigger("ShowUI");
             else
                 GetComponent<Animator>().SetTrigger("UIHide");
+        }
+
+        public void ShowWeaponUI(bool value){
+            weaponUI.SetActive(value);
         }
     }
 }

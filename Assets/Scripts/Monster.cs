@@ -24,6 +24,11 @@ public class Monster : MonoBehaviour
     private float countdownBeforeStop;
     private float countdownBeforeMovingAgain;
     private Player currentPlayer;
+    private AudioSource audioSource;
+    [SerializeField] AudioClip aggroSound;
+    [SerializeField] AudioClip deathSound;
+    private bool aggroSoundPlayed = false;
+    private bool deathCoroutineLaunched = false;
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
@@ -45,6 +50,7 @@ public class Monster : MonoBehaviour
 
     private void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         currentAnimator = GetComponentInChildren<Animator>();
         rigidbody = GetComponent<Rigidbody2D>();
         currentPlayer = FindObjectOfType<Player>();
@@ -56,8 +62,16 @@ public class Monster : MonoBehaviour
         healthPoint--;
         if (healthPoint <= 0)
         {
-            Destroy(this.gameObject);
+            if (!deathCoroutineLaunched)
+                StartCoroutine("Death");
         }
+    }
+
+    IEnumerator Death(){
+        deathCoroutineLaunched = true;
+        audioSource.PlayOneShot(deathSound);
+        yield return new WaitForSeconds(0.19f);
+        Destroy(this.gameObject);
     }
     private void Update()
     {
@@ -66,6 +80,11 @@ public class Monster : MonoBehaviour
             if (detectionRange >= Vector3.Distance(this.transform.position, currentPlayer.transform.position))
             {
                 isPlayerInRange = true;
+                if (aggroSoundPlayed == false){
+                    audioSource.PlayOneShot(aggroSound);
+                    aggroSoundPlayed = true;
+                }
+
             }
 
             if (canMove)

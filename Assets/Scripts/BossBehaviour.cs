@@ -51,8 +51,8 @@ public class BossBehaviour : MonoBehaviour
     #region Phase1
     public void StartPhaseOne()
     {
-        StartCoroutine(SetIdleTentacles());
-        //StartCoroutine(PhaseOneAttacksCycle());
+        //StartCoroutine(SetIdleTentacles());
+        StartCoroutine(PhaseOneAttacksCycle());
         phaseOneTurret.StartFiring();
     }
 

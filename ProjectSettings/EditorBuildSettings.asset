@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: fb15295865643b94f94c2f47ea36757f
   - enabled: 1
-    path: Assets/Scenes/LevelNavigation.unity
-    guid: c4e8d2618f973a647b096dde560a37b2
+    path: Assets/Scenes/Intro.unity
+    guid: 07874d7745b896244aa7ff2b17c32c59
   - enabled: 1
     path: Assets/Scenes/FirstMaskingSession.unity
     guid: 2cda990e2423bbf4892e6590ba056729

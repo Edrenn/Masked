@@ -6,7 +6,8 @@ namespace Assets.Scripts
 {
     public class SceneController : MonoBehaviour
     {
-        [SerializeField]GameObject transitionCanvas;
+        [SerializeField] GameObject transitionCanvas;
+        [SerializeField] Animator mainMenuCanvasAnimator;
 
         void Start()
         {
@@ -47,18 +48,23 @@ namespace Assets.Scripts
 
         IEnumerator TransitionToScene(int sceneBuildId)
         {
-            transitionCanvas.SetActive(true);
+            transitionCanvas.GetComponent<Animator>().SetTrigger("SlideIn");
             yield return new WaitForSeconds(1);
             SceneManager.LoadScene(sceneBuildId);
             yield return new WaitUntil(() => SceneManager.GetActiveScene().buildIndex == sceneBuildId);
             transitionCanvas.GetComponent<Animator>().SetTrigger("SlideOut");
             yield return new WaitForSeconds(1f);
-            transitionCanvas.SetActive(false);
+        }
+
+        IEnumerator OnContinuePressed(){
+            mainMenuCanvasAnimator.SetTrigger("Disappear");
+            yield return new WaitUntil(() => mainMenuCanvasAnimator.GetCurrentAnimatorStateInfo(0).IsName("MainMenuHidden"));
+            StartCoroutine(TransitionToScene(1));
         }
 
         public void LaunchFirstLevel()
         {
-            StartCoroutine(TransitionToScene(1));
+            StartCoroutine(OnContinuePressed());
         }
 
         public void Quit()

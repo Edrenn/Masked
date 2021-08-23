@@ -13,25 +13,37 @@ namespace Assets.Scripts
         public bool CanFire = false;
         public bool CanDoThings = false;
         public bool isFiringGel = false;
+        public bool isPreparingFire = false;
         private int counter;
         private GameObject currentProjectile;
         Animator currentAnimator;
         private UIManager uiManager;
+        private AudioSource audioSource;
 
         #region Weapons
+        [SerializeField] private bool isMaskAvailable = false;
         [SerializeField] private bool isGelAvailable = false;
         [SerializeField] private bool isSringeAvailable = false;
         [SerializeField] GameObject mask;
         [SerializeField] GameObject sringe;
         [SerializeField] GameObject gel;
         [SerializeField] GameObject gelWeapon;
+        private bool isGelCoroutineGelOn = false;
+        #endregion
+
+        #region Sounds
+        [SerializeField] private AudioClip bendingSound;
+        [SerializeField] private AudioClip releaseSound;
+        [SerializeField] private AudioClip gelFiringSound1;
+            
         #endregion
 
         private void Start()
         {
+            audioSource = GetComponent<AudioSource>();
             uiManager = FindObjectOfType<UIManager>();
             currentAnimator = GetComponent<Animator>();
-            currentProjectile = mask;
+            currentProjectile = null;
             if (gelWeapon)
                 gelWeapon.SetActive(false);
             counter = 0;
@@ -42,10 +54,10 @@ namespace Assets.Scripts
             if (CanDoThings)
             {
                 ChangeWeapon();
-                FiringBehaviour();
+                if (currentProjectile != null)
+                    FiringBehaviour();
             }
         }
-
 
         private void FiringBehaviour()
         {
@@ -56,14 +68,21 @@ namespace Assets.Scripts
                 {
                     if (isFiringGel == false)
                     {
-                        StartCoroutine(FireGel());
+                        if (!isGelCoroutineGelOn){
+                            isGelCoroutineGelOn = true;
+                            StartCoroutine(FireGelCycle());
+                        }
+                        else{
+                            FireGel();
+                        }
                         isFiringGel = true;
                     }
                 }
 
                 if (Input.GetButtonUp("Fire1"))
                 {
-                    StopCoroutine(FireGel());
+                    StopCoroutine(FireGelCycle());
+                    isGelCoroutineGelOn = false;
                     isFiringGel = false;
                 }
             }
@@ -73,21 +92,30 @@ namespace Assets.Scripts
                 #region PrepareFiring
                 if (Input.GetButtonDown("Fire1"))
                 {
+                    audioSource.clip = bendingSound;
+                    audioSource.Play();
                     aimArrow.ShowAimArrow();
                     currentAnimator.SetTrigger("PrepareProjectile");
+                    isPreparingFire = true;
                 }
                 #endregion
 
                 #region Fire
 
-                if (Input.GetButtonUp("Fire1"))
+                if (Input.GetButtonUp("Fire1") && isPreparingFire)
                 {
                     if (CanFire)
                     {
+                        audioSource.Stop();
                         currentAnimator.SetTrigger("Fire");
+                        audioSource.PlayOneShot(releaseSound);
                     }
-                    else
+                    else{
                         currentAnimator.SetTrigger("ReleaseWithoutFiring");
+                        audioSource.Stop();
+                    }
+
+                    isPreparingFire = false;
 
                     aimArrow.HideAimArrow();
                 }
@@ -99,9 +127,12 @@ namespace Assets.Scripts
         {
             if (Input.GetKeyDown(KeyCode.Alpha1))
             {
-                uiManager.SetMaskImage();
-                currentProjectile = mask;
-                gelWeapon.SetActive(false);
+                if (isMaskAvailable)
+                {
+                    uiManager.SetMaskImage();
+                    currentProjectile = mask;
+                    gelWeapon.SetActive(false);
+                }
             }
 
             if (Input.GetKeyDown(KeyCode.Alpha2))
@@ -125,8 +156,8 @@ namespace Assets.Scripts
             }
         }
 
-        private IEnumerator FireGel()
-        {
+        private void FireGel(){
+
             Projectile proj = Instantiate(gel, new Vector3( transform.position.x,transform.position.y - 0.2f), Quaternion.identity).GetComponent<Projectile>();
             // get mouse position
             Vector3 mousePose = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -138,10 +169,17 @@ namespace Assets.Scripts
             // Tiny modification for the cone shape firing
             Vector3 newDirection = new Vector3(firePoint.right.x + Random.Range(0,0.1f), firePoint.right.y + Random.Range(0, 0.1f), firePoint.right.z);
             rb.AddForce(newDirection * proj.Speed, ForceMode2D.Impulse);
+            
+            audioSource.PlayOneShot(gelFiringSound1);
+        }
+
+        private IEnumerator FireGelCycle()
+        {
+            FireGel();
             yield return new WaitForSeconds(gelFiringSpeed);
             if (isFiringGel)
             {
-                StartCoroutine(FireGel());
+                StartCoroutine(FireGelCycle());
             }
         }
 
@@ -183,6 +221,15 @@ namespace Assets.Scripts
         public void SetSringeProjectile()
         {
             currentProjectile = sringe;
+        }
+
+         public void UnlockMask()
+        {
+            FindObjectOfType<Player>().SetCanTakeDamage(true);
+            isMaskAvailable = true;
+            uiManager.SetMaskImage();
+            currentProjectile = mask;
+            uiManager.ShowWeaponUI(true);
         }
 
         public void UnlockGel()

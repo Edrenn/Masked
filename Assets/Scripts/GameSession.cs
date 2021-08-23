@@ -43,14 +43,14 @@ public class GameSession : MonoBehaviour
 
     public void UpdateObjectives()
     {
-        objectives = FindObjectsOfType<Character>().Where(c => c.characterStatus == CharacterStatusEnum.healthyAndUnmasked).Count();
-        //objectives += FindObjectsOfType<Character>().Where(c => c.characterStatus == CharacterStatusEnum.sickAndUnmasked).Count();
-        objectiveText.text = objectives.ToString();
-        if (objectives <= 0)
-        {
-            ShowVictoryScreen();
-            isGamePaused = true;
-        }
+        // objectives = FindObjectsOfType<Character>().Where(c => c.characterStatus == CharacterStatusEnum.healthyAndUnmasked).Count();
+        // //objectives += FindObjectsOfType<Character>().Where(c => c.characterStatus == CharacterStatusEnum.sickAndUnmasked).Count();
+        // objectiveText.text = objectives.ToString();
+        // if (objectives <= 0)
+        // {
+        //     ShowVictoryScreen();
+        //     isGamePaused = true;
+        // }
     }
 
     private void ShowVictoryScreen()

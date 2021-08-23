@@ -6,16 +6,15 @@ public class MainMenuHUDManager : MonoBehaviour
 {
     [SerializeField] GameObject MainMenuInterface;
     [SerializeField] GameObject OptionsInterface;
+    [SerializeField] Animator MenuAnimator;
 
     public void ShowOptions()
     {
-        OptionsInterface.SetActive(true);
-        MainMenuInterface.SetActive(false);
+        MenuAnimator.SetTrigger("Options");
     }
 
     public void HideOptions()
     {
-        OptionsInterface.SetActive(false);
-        MainMenuInterface.SetActive(true);
+        MenuAnimator.SetTrigger("MainMenu");
     }
 }

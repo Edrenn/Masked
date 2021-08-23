@@ -25,6 +25,7 @@ public class StoneFall : MonoBehaviour
 
     public void CrushPlayer()
     {
+        Camera.main.GetComponent<Animator>().SetTrigger("BigShake");
         if (isPlayerInZone)
         {
             FindObjectOfType<Player>().TakeDamage();

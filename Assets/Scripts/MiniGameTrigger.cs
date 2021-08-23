@@ -6,14 +6,14 @@ using UnityEngine;
 public class MiniGameTrigger : MonoBehaviour
 {
     [SerializeField] private GameObject miniGameUI;
-    private bool isPlayerInRange;
+    protected bool isPlayerInRange;
     
-    private void ShowUI(bool value){
+    protected virtual void ShowUI(bool value){
         FindObjectOfType<Player>().SetCanDoThings(!value);
         miniGameUI.SetActive(value);
     }
 
-    void Update(){
+    protected virtual void Update(){
         if(Input.GetKeyDown(KeyCode.Space) && isPlayerInRange){
             ShowUI(true);
         }

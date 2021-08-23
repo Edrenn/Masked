@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class CheckpointFiller : MonoBehaviour
 {
     [SerializeField] private float countdownSpeed = 0.016f;
+    [SerializeField] private bool refillOnEnable = false;
     public bool isPaused = false;
     private Image filler;
     void Start()
@@ -26,5 +27,10 @@ public class CheckpointFiller : MonoBehaviour
 
     public void SetPauseTimer(bool value){
         isPaused = value;
+    }
+
+    private void OnEnable() {
+        if (refillOnEnable)
+            filler.fillAmount = 1;
     }
 }

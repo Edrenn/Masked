@@ -12,6 +12,7 @@ public class LaunchButton : MonoBehaviour
         GetComponent<SpriteRenderer>().sprite = LaunchedSprite;
         FindObjectOfType<ProgressSlider>().Activate();
         isLaunched = true;
+        FindObjectOfType<CookingMiniGame>().Launch();
     }
 
     void Update(){

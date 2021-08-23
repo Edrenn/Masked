@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class SoundManager : MonoBehaviour
 {
     private AudioSource audioSource;
+    [SerializeField] private AudioClip goingUp;
     void Start()
     {
         audioSource = GetComponent<AudioSource>();
@@ -28,5 +29,9 @@ public class SoundManager : MonoBehaviour
     public void PlaySound()
     {
         audioSource.Play();
+    }
+
+    public void PlayGetUpSound(){
+        audioSource.PlayOneShot(goingUp);
     }
 }

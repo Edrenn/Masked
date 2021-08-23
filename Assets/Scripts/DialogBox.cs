@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 using UnityEngine.UI;
 
 public delegate void EndOfDialogAction();
@@ -15,6 +16,8 @@ public class DialogBox : MonoBehaviour
     [SerializeField] private Text textObjectToWrite;
     [SerializeField] private Text nameObjectToWrite;
     [SerializeField] private GameObject dialogBox;
+
+    public UnityEvent losTestos;
 
     public EndOfDialogAction endOfDialogAction;
 
@@ -57,7 +60,7 @@ public class DialogBox : MonoBehaviour
             textObjectToWrite.text += letter;
             yield return new WaitForSeconds(writingSpeed);
         }
-
+        Debug.Log("Oui");
         canLoadNextLine = true;
     }
 
@@ -104,7 +107,9 @@ public class DialogBox : MonoBehaviour
     private void SetPlayerCanDoThing(bool value)
     {
         Player player = FindObjectOfType<Player>();
-        player.SetCanDoThings(value);
+        if (player != null){
+            player.SetCanDoThings(value);
+        }
     }
 
     private void StartSpeaking()
